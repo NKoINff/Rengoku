@@ -1,0 +1,185 @@
+body{
+    background-color: #9b260393;
+    color: #363131;   
+}
+.body {
+    padding: 0;
+    margin: auto;
+    width: 1000px;
+    font-size: 1.1em;
+    color: #363131;
+}
+.logo h1, .logo h2{
+    font: normal 200% 'times new roman', sans-serif;
+    font-weight: bold;
+    margin: 0 0 0 9px;
+    text-align: center
+}
+ul.menu {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+   }
+ul.menu li {
+    display: inline; /* Отображать как строчный элемент */
+    position: relative;
+    right: 40px;
+   }
+img.ryuma {
+    width:1000px;
+    border:2px solid rgba(175, 13, 1, 0.767);
+    }
+.rasa{
+    position: relative;
+    top: -30px;
+    display: inline-block ;
+}
+.name{
+    display: block;
+    margin-left: 37px;;
+}
+.about{
+    display: block;
+    margin-left: 37px;;    
+}
+.chel{
+    display: inline-block;
+    margin-left: 97px ;
+    font-size: 16px;
+    color: #554a4a;
+}
+.pol{
+    position: relative;
+    top: -60px;
+    display: block ;
+}
+.myz{
+    
+    display: inline-block;
+    margin-left: 97px ;
+    font-size: 16px;
+    color: #554a4a;
+}
+.vozrast{
+    display: block ;
+    position: relative;
+    top: -70px;
+}
+.let{
+    
+    display: inline-block;
+    margin-left: 85px ;
+    font-size: 16px;
+    color: #554a4a;
+}
+.rost{
+    display: block ;
+    position: relative;
+    top: -80px;
+}
+.ves{
+    display: block ;
+    position: relative;
+    top: -90px;
+}
+.sm{
+    
+    display: inline-block;
+    margin-left: 113px ;
+    font-size: 16px;
+    color: #554a4a;
+}
+.kg{
+    
+    display: inline-block;
+    margin-left: 131px ;
+    font-size: 16px;
+    color: #554a4a;
+}
+.family{
+    float:right;
+    position: relative;
+    top: -539px;
+    left: 183px;
+}
+.renfamily{
+    float:right;
+    position: relative;
+    top: -614px;
+    right: 178px;
+}
+.menubar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menubar a {
+    float: right;
+    font-size: 16px;
+    color: white;
+    padding: 14px 85px;
+    text-decoration: none;
+    position:relative;
+    top: -9px;
+}
+.menubar a{
+    background-color: red;
+}
+.topmenu-container{
+    float: right;
+    position: relative;
+    left: 560px; 
+    bottom: 55px;  
+    font-size: 22px;
+}
+.standing{
+position: relative;
+bottom: 375px;
+left: -90px;
+}
+.content{
+    position: relative;
+    bottom: 250px;
+}
+.content h3{
+    font-size: 38px;
+}
+.soderz{
+    font-size: 38px;  
+}
+.txtet{
+    font-size: 25px;
+}
+.eating{
+    margin: 0 0 0 9px;
+}
+.topmenu a{
+    color: #f53100;
+    font-size: 25px;
+}
+.symbol:hover {
+    padding:2px;
+    background-color:#fffcfc;
+    }
+.symbol {
+     color: #fffcfc;
+     margin-top:6px;
+    margin-left:29px;
+    height:29px;
+}
+.all-symbols {
+    float:left;
+    margin-top:19px;
+    padding-left:1110px;
+}
+#footer {
+    background-color: #f51010;
+    height: 70px;
+    color: #f3f2ff; 
+    width: 100%; 
+}
